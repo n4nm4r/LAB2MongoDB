@@ -1,0 +1,14 @@
+{
+  "name": "lab2mongodb",
+  "version": "1.0.0",
+  "description": "Lab2 project",
+  "main": "connect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nancy Martin",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.9.0"
+  }
+}
